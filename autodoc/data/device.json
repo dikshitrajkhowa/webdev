@@ -1,0 +1,58 @@
+{
+    "file_name": "7-Device_SCN012757_ECHELON Family of Endocutters_CER.docx",
+    "cer_detail": [
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "2",
+            "deviceGroupName": "ECHELON FLEX 45/60 Endoscopic Linear Cutter",
+            "sscp": "222222",
+            "deviceId": 13
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "3",
+            "deviceGroupName": "ECHELON FLEX Powered 45/60 Endoscopic Linear Cutter",
+            "sscp": "333333",
+            "deviceId": 14
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "4",
+            "deviceGroupName": "ECHELON FLEX Powered Plus 45/60 Endoscopic Linear Cutter",
+            "sscp": "444444",
+            "deviceId": 15
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "5",
+            "deviceGroupName": "ECHELON Endoscopic Linear Cutter Reloads – Nonvascular",
+            "sscp": "555555",
+            "deviceId": 16
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "6",
+            "deviceGroupName": "ECHELON Endoscopic Linear Cutter Reloads – Vascular",
+            "sscp": "666666",
+            "deviceId": 17
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "7",
+            "deviceGroupName": "ECHELON Powered Plus GST Reloads – Nonvascular",
+            "sscp": "777777",
+            "deviceId": 18
+        },
+        {
+            "systemName": "Echelon Endoscopic Linear Cutters",
+            "deviceGroup": "8",
+            "deviceGroupName": "ECHELON Powered Plus GST Reloads – Vascular",
+            "sscp": "888888",
+            "deviceId": 19
+        }
+    ],
+    "project_name": "testAbc",
+    "s3_location": "https://s3.amazonaws.com/bms-pcm-autodoc-dev/testAbc/7-Device_SCN012757_ECHELON Family of Endocutters_CER.docx",
+    "project_id": 11,
+    "user_id": 2
+}
